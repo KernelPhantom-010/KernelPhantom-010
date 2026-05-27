@@ -1,3 +1,4 @@
+![gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc21yNWgwNDhmeXZwNDE5d3VxMjJiejBuNHZlaTk3NTQ5OHY4Z3NyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JFmZjf0Ho5UTleAC1B/giphy.gif)
 # 💫 About Me:
 🔭 I’m currently working on<br>→ low-level development, Windows internals & my startup project NexusDefend<br><br>👯 I’m looking to collaborate on<br>→ reverse engineering, cybersecurity tooling & system-level projects<br><br>🤝 I’m looking for help with<br>→ exploit development, kernel research & advanced RE topics<br><br>🌱 I’m currently learning<br>→ Windows internals, low-level programming & reverse engineering<br><br>💬 Ask me about<br>→ Python, C/C++, C#, Windows internals & cybersecurity<br><br>⚡ Fun fact<br>→ I like understanding systems so deeply that breaking them becomes part of the learning process
 

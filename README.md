@@ -50,10 +50,6 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=KernelPhantom-010&show_icons=true&theme=tokyonight"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=KernelPhantom-010&theme=tokyonight"/>
 </p>
 
-<p align="center">
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KernelPhantom-010&layout=compact&theme=tokyonight"/>
-</p>

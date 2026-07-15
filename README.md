@@ -31,7 +31,7 @@
 
 <td width="45%" align="center">
 
-<img src="[https://your-image.png](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3FoZjhzODk5MnJpYWdqNGRmd2Jha3d3bDkwaGtmZWU0dzZ2aHphYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MMFy7H38G6d9YKOZN6/giphy.gif)" width="280"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3FoZjhzODk5MnJpYWdqNGRmd2Jha3d3bDkwaGtmZWU0dzZ2aHphYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MMFy7H38G6d9YKOZN6/giphy.gif" width="280"/>
 
 </td>
 </tr>

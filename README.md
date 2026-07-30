@@ -42,7 +42,7 @@
 ## 🚀 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,c,cs,python,github,linux,windows,vscode,visualstudio,dotnet"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,cs,,flutter,python,github,linux,windows,vscode,visualstudio,dotnet"/>
 </p>
 
 ---

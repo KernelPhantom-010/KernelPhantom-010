@@ -68,16 +68,4 @@ fabio@kernelphantom:~$ cat about.txt
 <p align="center"><img src="assets/divider.svg" width="100%" alt=""></p>
 
 ## `[ GitHub Stats ]`
-
-<p align="center">
-  <img height="170" alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=KernelPhantom-010&background=000000&stroke=333333&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=8c8c8c&dates=8c8c8c&border=333333&hide_border=false">
-</p>
-
-<p align="center">
-  <img height="150" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KernelPhantom-010&show_icons=true&hide_border=false&bg_color=000000&title_color=ffffff&text_color=cfcfcf&icon_color=ffffff&border_color=333333">
-  <img height="150" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KernelPhantom-010&layout=compact&bg_color=000000&title_color=ffffff&text_color=cfcfcf&border_color=333333">
-</p>
-
-<p align="center"><img src="assets/divider.svg" width="100%" alt=""></p>
-
-<p align="center"><sub><code>Break. Reverse. Understand. Repeat.</code></sub></p>
+<p align="center"> <img height="170" alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=KernelPhantom-010&background=000000&stroke=333333&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=8c8c8c&dates=8c8c8c&border=333333&hide_border=false"> </p> <p align="center"> <img alt="Followers" src="https://img.shields.io/github/followers/KernelPhantom-010?style=for-the-badge&color=000000&labelColor=1a1a1a&logo=github&logoColor=white"> </p> <p align="center"><img src="assets/divider.svg" width="100%" alt=""></p> <p align="center"><sub><code>Break. Reverse. Understand. Repeat.</code></sub></p>

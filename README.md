@@ -62,7 +62,7 @@ fabio@kernelphantom:~$ cat about.txt
 ## `[ Tech Stack ]`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,cs,flutter,python,github,linux,windows,vscode,visualstudio,dotnet&theme=dark" alt="Tech Stack">
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,github,linux,windows,vscode,visualstudio,dotnet&theme=dark" alt="Tech Stack">
 </p>
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt=""></p>

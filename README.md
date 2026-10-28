@@ -18,12 +18,12 @@
 ### `$ whoami`
 
 ```text
-fabio@kernelphantom:~$ cat about.txt
+┌──(root㉿kali)-[~]
+└─# cat about.txt
 
-[>] Building        NexusDefend
-[>] Learning        Windows Internals
-[>] Interested in   Reverse Engineering
-[>] Focus           Low-Level Development
+[>] Building        System-/Security-Components
+[>] Learning        Windows Internals, Binary Exploitation, Secure Software Development
+[>] Focus           Low-Level Development, Binary Exploitation
 [>] Field           Cybersecurity
 ```
 
